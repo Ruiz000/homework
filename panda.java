@@ -1,7 +1,7 @@
 import java.util.*;
 class panda{
-	private color;
-	private num;
+	private string color;
+	private string num;
 	
 	
 	
